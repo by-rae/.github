@@ -1,4 +1,4 @@
-<h1 align="center">✨ Casilyn Zirui Soong</h1>
+<h1 align="center">✨ Casilyn ✨</h1>
 <p align="center"><em>Learning journey across creative coding, 3D, generative art, and UX design.</em></p>
 
 <p align="center">
