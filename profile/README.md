@@ -1,9 +1,9 @@
-<h1 align="center">✨ Casilyn ✨</h1>
-<p align="center"><em>Learning journey across creative coding, 3D, generative art, and UX design.</em></p>
+<h1 align="center">Casilyn Zirui Soong</h1>
+<p align="center"><em>Creative development, 3D, and interaction design.</em></p>
 
 <p align="center">
-  <a href="https://casilynzirui.tech" target="_blank">casilynzirui.tech</a> •
-  <a href="https://github.com/casilynzirui" target="_blank">main profile</a>
+  <a href="https://casilynzirui.tech" target="_blank">Portfolio</a> •
+  <a href="https://github.com/casilynzirui" target="_blank">Profile</a>
 </p>
 
 ---
@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <sub>© Casilynzirui • Crafted with code and curiosity • Singapore</sub>
+  <sub>© Casilyn Zirui Soong</sub>
 </p>
