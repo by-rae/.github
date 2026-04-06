@@ -8,7 +8,7 @@
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 <details open>
   <summary><strong>Expand</strong></summary>
